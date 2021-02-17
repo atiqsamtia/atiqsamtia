@@ -6,7 +6,7 @@ Too lazy to write about myself. Here are some stats for now.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=atiqsamtia&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://atiq.dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atiqsamtia&layout=compact&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atiqsamtia&layout=compact&langs_count=8&theme=radical" />
 </a>
 <!--
 **atiqsamtia/atiqsamtia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
